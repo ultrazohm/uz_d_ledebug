@@ -1,0 +1,5 @@
+DigCon_DCPLD_IO=DCPLD_DigIn_01,DCPLD_DigIn_02,DCPLD_DigOut_01,DCPLD_DigOut_02
+DigCon_DIG_Res=DIG_Res_00,DIG_Res_03,DIG_Res_04,DIG_Res_05,DIG_Res_06,DIG_Res_08
+DigCon_I2C=I2C0_SCL,I2C0_SCA
+DigCon_PowerSupply=VIN,5V,3V3,GND
+DigCon_Status=CarrierReady,AdapterCardOK,Collective_FLT
